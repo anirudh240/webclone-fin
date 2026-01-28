@@ -15,7 +15,7 @@ A fully responsive website clone built using HTML and CSS
 ## 🚀 Tech Stack
 
 - HTML
-- CSS
+- CSS   
 - BOOTSTRAP
 
 ## 📸 Preview
